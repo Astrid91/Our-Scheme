@@ -162,7 +162,7 @@
 ## 編譯與執行
 ### 編譯（g++）
 ```scheme
-g++ -std=c++11 -O2 -o ourscheme main.cpp
+g++ -std=c++11 -O2 -o ourscheme ourscheme.cpp
 ```
 ### 執行
 ```scheme
