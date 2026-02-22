@@ -120,7 +120,7 @@
 
 ---
 ## 錯誤處理（Error messages）
-主要錯誤由 Error(int &e) 統一輸出，常見包含：
+主要錯誤由 Error(int &e) 統一輸出，包含：
 - `ERROR (no closing quote)`
 - `ERROR (no more input)（EOF）`
 - `ERROR (unexpected token)`（期待 atom 或 (、或期待 )）
